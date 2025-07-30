@@ -6,8 +6,6 @@ This project implement multiclass **_news_** text classification using **DistilB
 
 The **NewsClassifyPro API** is **deployed** using **AWS API Gateway**.
 
-**Endpoint** :- `https://aumwoknir1.execute-api.ap-south-1.amazonaws.com/dev/prediction-model`
-
 
 
 ## Frameworks, Libraries & Services : 
